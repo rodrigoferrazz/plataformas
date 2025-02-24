@@ -1,0 +1,138 @@
+{"frames": [
+
+{
+	"filename": "andada1.png",
+	"frame": {"x":0,"y":0,"w":223,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":260},
+	"sourceSize": {"w":223,"h":260},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "andada2.png",
+	"frame": {"x":223,"y":0,"w":219,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":260},
+	"sourceSize": {"w":219,"h":260},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "parada.png",
+	"frame": {"x":442,"y":0,"w":217,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":260},
+	"sourceSize": {"w":217,"h":260},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pulo0.png",
+	"frame": {"x":659,"y":0,"w":220,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":261},
+	"sourceSize": {"w":220,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pulo1.png",
+	"frame": {"x":879,"y":0,"w":227,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":271},
+	"sourceSize": {"w":227,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pulo2.png",
+	"frame": {"x":1106,"y":0,"w":227,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":271},
+	"sourceSize": {"w":227,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pulo3.png",
+	"frame": {"x":1333,"y":0,"w":261,"h":281},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":281},
+	"sourceSize": {"w":261,"h":281},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pulo4.png",
+	"frame": {"x":1594,"y":0,"w":253,"h":292},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":292},
+	"sourceSize": {"w":253,"h":292},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pulo5.png",
+	"frame": {"x":1847,"y":0,"w":264,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":300},
+	"sourceSize": {"w":264,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pulo6.png",
+	"frame": {"x":2111,"y":0,"w":209,"h":295},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":295},
+	"sourceSize": {"w":209,"h":295},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pulo7.png",
+	"frame": {"x":2320,"y":0,"w":268,"h":292},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":292},
+	"sourceSize": {"w":268,"h":292},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pulo8.png",
+	"frame": {"x":2588,"y":0,"w":228,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":294},
+	"sourceSize": {"w":228,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "respirando1.png",
+	"frame": {"x":2816,"y":0,"w":222,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":222,"h":260},
+	"sourceSize": {"w":222,"h":260},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "respirando2.png",
+	"frame": {"x":3038,"y":0,"w":221,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":260},
+	"sourceSize": {"w":221,"h":260},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chris.png",
+	"format": "RGBA8888",
+	"size": {"w":3259,"h":300},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:eb7360cfa80a5748f7fe5cf1fefe864d:7c4d0b61039157bdb16d10bd9bd66477:2af73cdc7924673c8893b451951e11b5$"
+}
+}
